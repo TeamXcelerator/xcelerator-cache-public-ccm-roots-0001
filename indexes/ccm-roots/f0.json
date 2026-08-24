@@ -1,1 +1,6 @@
-{"entries":[{"achieved_assurance":"computed","canonical_payload_digest":"12815adcabace00089ddce7f3d93bc5aa07167370b75a23f100616138408a398","disposition":"active","manifest_digest":"cc555942b3ddeddf53eb0c4882f963615a8b30f4c6ef6a41ba039a195bfc2cd0","minimum_reader_version":{"major":0,"minor":13,"patch":0,"prerelease":null},"producer_toolkit_version":{"major":0,"minor":13,"patch":0,"prerelease":null},"publication_transaction_id":"596ff6126334fdd65ce3db78a1ca604d66d0f6671fdd84ea076bffa5cb50501e","semantic_digest":"f0db92c7567d1efa9d1e9ca2c01c6ae7d1e0c33349153da9cac211a4af22635a","transport_digests":["69f98b4c1eb1d2ee87204405000599444eb1dc94e2fb1c8846795a3b9b0b2ed8"]}],"family":"ccm-roots","schema_version":1,"semantic_prefix":"f0"}
+{
+  "entries": [],
+  "family": "ccm-roots",
+  "schema_version": 1,
+  "semantic_prefix": "f0"
+}
