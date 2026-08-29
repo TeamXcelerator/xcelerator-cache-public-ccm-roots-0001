@@ -17,9 +17,14 @@ CCM secular sources, discovery windows, refinements, and spectral windows.
 Artifact kinds assigned to this family:
 
 - `ccm_secular_source`
+- `ccm_root_count_window`
 - `ccm_root_discovery_window`
 - `ccm_root_refinement`
 - `ccm_spectral_window`
+
+This shard's routing metadata is synchronized with Xcelerator Toolkit v0.14.1.
+Listing a kind permits validated publication; it does not assert that an
+artifact of that kind is currently present.
 
 ## Layout
 
